@@ -1,5 +1,0 @@
-# Created by .ignore support plugin (hsz.mobi)
-migrations/*
-.idea
-# not removing .env file for setting up
-# .env
